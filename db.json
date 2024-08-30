@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "id": 101,
+      "category": "Protest",
+      "title": "Student movement, Dictatorship",
+      "description": "Protest the unelected government",
+      "date": "08/03/2024",
+      "location": "Times Square",
+      "time": "7:30 PM",
+      "petsAllowed":false,
+      "host": "Patriot of Bangladesh, USA"
+    }
+  ]
+}
