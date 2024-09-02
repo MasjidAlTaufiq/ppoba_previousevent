@@ -11,6 +11,18 @@
       "petsAllowed":false,
       "host": "Patriot of Bangladesh, USA",
       "status": "Successfully Done."
+    },
+     {
+      "id": 102,
+      "category": "Meeting",
+      "title": "General Meeting",
+      "description": "General Meeting",
+      "date": "09/01/2024",
+      "location": "Dhaka Garden Restaurant, Jackson Heights",
+      "time": "8:00 PM",
+      "petsAllowed":false,
+      "host": "Abraham, Wahidur, and Somrat",
+      "status": "Waiting to ... "
     }
   ]
 }
